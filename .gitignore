@@ -1,0 +1,21 @@
+# Executables
+*.out
+*.exe
+*.app
+
+# Object files
+*.o
+
+# Static / shared libraries
+*.a
+*.so
+
+# Makefile artifacts
+*.d
+
+# VS Code
+.vscode/
+
+# Mac/Linux temp
+*.swp
+*.tmp
